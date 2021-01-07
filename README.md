@@ -12,4 +12,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Screenshots
-![](https://github.com/sujoyyyy/Static-About-Me-App/blob/main/Screenshots/3.jpeg)
+![](https://github.com/sujoyyyy/Static-About-Me-App/blob/main/Screenshots/3.jpg)
